@@ -1319,8 +1319,8 @@ button {
 		#header .content p {
 			text-transform: none;
 			/* letter-spacing: 0.2rem; */
-			font-size: 16px;
-			line-height: 2.5;
+			font-size: 40rem;
+			line-height: 2;
 		}
 
 	#header nav ul {
