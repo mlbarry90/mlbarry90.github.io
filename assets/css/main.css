@@ -1131,7 +1131,7 @@ button {
 		background-position: center, center;
 		background-repeat: no-repeat, repeat;
 		/* This sets the order of rendering. This will sit on top of all elements with z-index < 2 */
-		z-index: 2;
+		z-index: 0;
 	}
 
 	/* This sets the content of the actual background */
